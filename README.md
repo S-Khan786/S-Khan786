@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-khan786&label=Profile%20views&color=0e75b6&style=flat" alt="s-khan786" /> </p>
 
-- 👨‍💻 I graduated from NSUT. **.**
+- 👨‍💻 I graduated from NSUT **.**
 
 - 👯 I’m looking to work in the industry to gain some relevant experience [.](nil)
 
