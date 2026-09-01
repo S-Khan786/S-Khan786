@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sahil</h1>
 
-<h3 align="center">Full Stack Developer | Python Backend Developer | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer | Python Backend Developer</h3>
 
 <p align="center">
   Building production-ready web applications, scalable APIs, and backend systems.
