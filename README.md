@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Full Stack Developer with **1.8+ years of overall professional experience**
-- 🚀 **1.1+ years of hands-on full-stack development experience**
+- 🚀 **1.2+ years of hands-on full-stack development experience**
 - 🔧 Strong focus on **Python, FastAPI, React.js, Next.js, and TypeScript**
 - ⚙️ Experienced in building **REST APIs, microservices, authentication systems, and backend services**
 - ☁️ Worked with **AWS, Docker, Redis, PostgreSQL, MongoDB, and Celery**
