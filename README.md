@@ -105,6 +105,9 @@ End-to-end workflow management platform built with:
 <a href="https://linkedin.com/in/mohammad-sahil-a23696200" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
+  <a href="https://persnalportfolio.netlify.app" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/10456/10456439.png" alt="Portfolio" height="30" width="40"/>
+</a>
 </p>
 
 📧 **Email:** msahilkhan846@gmail.com
