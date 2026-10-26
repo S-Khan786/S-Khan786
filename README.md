@@ -112,8 +112,8 @@
 - 🧪 **Enterprise Reliability:** 80+ Pytest suite validating retrieval accuracy, diff parsing, and connection-pooled SQLAlchemy queries.
 
 <p>
-  <a href="https://github.com/S-Khan786" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+  <a href="https://pr-sentinel-tpop.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
